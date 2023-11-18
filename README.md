@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-**ashenafi-dev/ashenafi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**ashenafi here** 
+src="https://drive.google.com/uc?export=download&id=1naXbeb1DQ82S0kLlH-PkEZ1qfPWxpJ1_">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-<img src="https://drive.google.com/uc?export=download&id=1naXbeb1DQ82S0kLlH-PkEZ1qfPWxpJ1_">
+
