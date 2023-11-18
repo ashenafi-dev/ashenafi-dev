@@ -2,7 +2,7 @@
 
 
 **ashenafi here** 
-src="https://drive.google.com/uc?export=download&id=1naXbeb1DQ82S0kLlH-PkEZ1qfPWxpJ1_">
+<img src="https://drive.google.com/uc?export=download&id=1naXbeb1DQ82S0kLlH-PkEZ1qfPWxpJ1_">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
