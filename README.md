@@ -1,9 +1,31 @@
-### Hi there 👋 ashenafi here!
+# Ashenafi Yirgalem - Software Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on school stuff!
-- 🌱 I’m currently learning lots of stuff
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with some projects
-- 📫 How to reach me: ashenafiyirgalem@gmail.com
+I'm a software developer passionate about creating innovative solutions using modern web technologies and machine learning.
+
+## Skills
+
+**Web Development:** HTML, CSS, JavaScript, React, Next.js, TailwindCSS, Axios, Node.js, Express
+
+**Machine Learning:** TensorFlow, Python
+
+**Databases:** SQL, MySQL
+
+**Other:** Figma, Git, Heroku, Vercel, Supabase
+
+## Projects
+
+*   **Figma to Code Web Development:** Responsive website from Figma designs.
+*   **Face Recognition System:** Flask/TensorFlow app deployed on Heroku.
+*   **Inventory Management System:** React/Express/MySQL system for university.
+
+## Connect
+
+*   Email: ashenafiyirgalem@gmail.com
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashenafi-dev&show_icons=true&theme=tokyonight)](https://github.com/ashenafi-dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashenafi-dev&layout=compact&theme=tokyonight)](https://github.com/ashenafi-dev)
